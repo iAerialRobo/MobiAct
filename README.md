@@ -75,7 +75,7 @@ achieving efficient and accurate MAV action recognition.
 ![实验结果](./imagesF/pipeline.jpg)
 
 ## Datasets link:
-
+The part of validate datasets are in following: https://drive.google.com/file/d/1DfgWLfLJ0zHUOGUXlXQdDfDa8Ml0Z2aZ/view?usp=sharing
 We will release full data after the paper accept.
 
 
