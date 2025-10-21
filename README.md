@@ -1,6 +1,6 @@
 # MobiAct: Efficient MAV Action Recognition Using MobileNetV4 with Contrastive Learning and Knowledge Distillation
 
-## Authors： Nengbo Zhang  and Ho Hann Woei
+## Authors： Nengbo Zhang  and Hann Woei Ho
 
 
 
