@@ -35,6 +35,30 @@ Accurate and efficient recognition of Micro Air Vehicle (MAV) motion is essentia
 
 
 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <h4>vShape action</h4>
+      <img src="vShape_2_RGB_part01.gif" width="300" alt="vShape action">
+    </td>
+    <td align="center" style="border: none;">
+      <h4>inv_vShape action</h4>
+      <img src="inv_vShape_20_RGB_part01.gif" width="300" alt="inv_vShape action">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <h4>left_right action</h4>
+      <img src="left_right_2_RGB_part01.gif" width="300" alt="left_right action">
+    </td>
+    <td align="center" style="border: none;">
+      <h4>up_down action</h4>
+      <img src="up_down_RGB_part01.gif" width="300" alt="up_down action">
+    </td>
+  </tr>
+</table>
+
+
 
 ## Research Motivation:
 
